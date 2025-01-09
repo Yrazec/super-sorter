@@ -15,3 +15,7 @@ Windows Forms App (.NET Framework 4.7.2) for some sorting algorithms like Bogo S
 - Probably Quick Sort needs to be fixed! It returns slightly different data than other algorithms (after sorting).
 
 - The application and algorithms are imperfect - if you find an bug, please contact me! Report an bug by sending: loaded data, selected separator, selected data type, selected sorting algorithms and stacktrace.
+
+#  
+###### Cezary Pietruszyński ∙ [LinkedIn](https://www.linkedin.com/in/cezary-pietruszynski-tkd/)
+_Yrazec is just Cezary but reversed!_
